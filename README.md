@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nitin Muragi</h1>
+<h1 align="center"> Hi, I'm Nitin Muragi</h1>
 
 <p align="center">
   <em>Aspiring AI Engineer • Data Science And Python Developer • Lifelong Learner</em>
@@ -12,7 +12,7 @@
 - 🌱 Currently diving into **AI**, **Data Science**, and cutting-edge technologies
 - 💡 Love working on **real-world AI/ML problems**, **Kaggle notebooks**, and **automation tools**
 - 💬 Open to collaboration on innovative **AI/Data Science projects**
-- 📫 Reach me at: [nitinmuragi44@gmail.com](mailto:prajwalkagade05@gmail.com)
+- 📫 Reach me at: [nitinmuragi44@gmail.com](mailto:nitinmuragi44@gmail.com)
 - ⚡ Fun fact: *I believe data can tell stories that humans often miss!*
 
 ---
@@ -28,15 +28,12 @@
   
 
 
-#### 🔹 Frameworks & Libraries   
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)   
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)   
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![flask](https://img.shields.io/badge/flask-4580A1?style=for-the-badge&logo=mysql&logoColor=green)
+| Column 1 | Column 2 | Column 3 |
+| :--- | :--- | :--- |
+| NumPy ![NumPy](https://img.shields.io) | Pandas ![Pandas](https://img.shields.io) | TensorFlow ![TensorFlow](https://img.shields.io) |
+| Keras ![Keras](https://img.shields.io) | Matplotlib ![Matplotlib](https://img.shields.io) | Scikit-learn ![Scikit-learn](https://img.shields.io) |
+| Django ![Django](https://img.shields.io) | Flask ![flask](https://img.shields.io) | |
+
  
 
 #### 🔹 Concepts & Tools  
