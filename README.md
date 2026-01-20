@@ -25,7 +25,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML,CSS](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
+
+
+| Column 1 | Column 2 | Column 3 |
+| :--- | :--- | :--- |
+| NumPy ![NumPy](https://img.shields.io) | Pandas ![Pandas](https://img.shields.io) | TensorFlow ![TensorFlow](https://img.shields.io) |
+| Keras ![Keras](https://img.shields.io) | Matplotlib ![Matplotlib](https://img.shields.io) | Scikit-learn ![Scikit-learn](https://img.shields.io) |
+| Django ![Django](https://img.shields.io) | Flask ![flask](https://img.shields.io) | |
+
 #### 🔹 Frameworks & Libraries  
 | :--- | :--- | :--- |
 | NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)| Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | TensorFlow ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  |
