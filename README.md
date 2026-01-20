@@ -26,13 +26,11 @@
 ![HTML,CSS](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
   
-
-
-| Column 1 | Column 2 | Column 3 |
+#### 🔹 Frameworks & Libraries  
 | :--- | :--- | :--- |
-| NumPy ![NumPy](https://img.shields.io) | Pandas ![Pandas](https://img.shields.io) | TensorFlow ![TensorFlow](https://img.shields.io) |
-| Keras ![Keras](https://img.shields.io) | Matplotlib ![Matplotlib](https://img.shields.io) | Scikit-learn ![Scikit-learn](https://img.shields.io) |
-| Django ![Django](https://img.shields.io) | Flask ![flask](https://img.shields.io) | |
+| NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)| Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | TensorFlow ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  |
+| Keras ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  | Scikit-learn ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  |
+| Django ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | Flask ![flask]![flask](https://img.shields.io/badge/flask-4580A1?style=for-the-badge&logo=mysql&logoColor=green) | |
 
  
 
