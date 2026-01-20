@@ -25,7 +25,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML,CSS](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+---
 
 ### 🔹 Frameworks & Libraries
 
@@ -35,7 +35,7 @@
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |  ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | — |
 
-
+---
 ### 🔹 Skills & Tools
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF4088?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -48,7 +48,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 ---
 
