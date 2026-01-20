@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nitin Muragi</h1>
 
 <p align="center">
-  <em>Aspiring AI Engineer • Data Analyst • Lifelong Learner</em>
+  <em>Aspiring AI Engineer • Data Science And Python Developer • Lifelong Learner</em>
 </p>
 
 ---
